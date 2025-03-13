@@ -47,21 +47,15 @@ This project demonstrates my experience working with Azure by setting up a Stora
 
 ![Step 8](https://github.com/user-attachments/assets/582b6b2c-c069-443f-a583-730a2e01831f)
 
-
 9. Downloaded the modified file and verified the changes.
 
 ![Step 9](https://github.com/user-attachments/assets/6fd96955-7144-46cb-8ef9-0f4640bfc098)
+![Step 10](https://github.com/user-attachments/assets/6226b85e-f392-42ca-9f43-a12497081ac1)
 
 
 10. Deleted the Resource Group to prevent unnecessary costs.
 
-![Step 10](https://github.com/user-attachments/assets/6226b85e-f392-42ca-9f43-a12497081ac1)
-
-
-11. Verified the Resource Group was successfully deleted.
-
 ![Step 11](https://github.com/user-attachments/assets/fd43f69a-1d13-4c5c-be91-4e825d2edb68)
-
 
 12. Checked Cost Management -> Cost Analysis to review any incurred costs.
 
