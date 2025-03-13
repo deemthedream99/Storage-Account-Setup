@@ -1,4 +1,4 @@
-# Storage-Account-SetupAzure Storage Account Setup
+# Azure Storage Account Setup
 
 ## Overview
 
